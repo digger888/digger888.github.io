@@ -1,0 +1,62 @@
+
+skullface_2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 58
+  size: 195, 195
+  orig: 195, 195
+  offset: 0, 0
+  index: -1
+eyes1
+  rotate: false
+  xy: 372, 29
+  size: 126, 49
+  orig: 126, 49
+  offset: 0, 0
+  index: -1
+eyes2
+  rotate: false
+  xy: 199, 72
+  size: 126, 30
+  orig: 126, 30
+  offset: 0, 0
+  index: -1
+eyes3
+  rotate: false
+  xy: 385, 171
+  size: 122, 82
+  orig: 122, 82
+  offset: 0, 0
+  index: -1
+eyes4
+  rotate: false
+  xy: 244, 21
+  size: 126, 49
+  orig: 126, 49
+  offset: 0, 0
+  index: -1
+high_light
+  rotate: false
+  xy: 385, 80
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+hit
+  rotate: false
+  xy: 2, 2
+  size: 240, 54
+  orig: 240, 54
+  offset: 0, 0
+  index: -1
+main
+  rotate: false
+  xy: 199, 104
+  size: 184, 149
+  orig: 184, 149
+  offset: 0, 0
+  index: -1

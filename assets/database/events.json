@@ -1,0 +1,22 @@
+{
+    "caving": {
+        "id": "caving",
+        "meta": "negative обвал камней, минус энергия",
+        "type": "penalty",
+        "icon": "energy",
+        "image": "caving",
+        "name": "Обвал",
+        "description": "Вас заваливает падающими камнями",
+        "hole_sprite": "hole_caving"
+    },
+    "river": {
+        "id": "river",
+        "meta": "positive волшебная река, плюс энергия",
+        "type": "bonus",
+        "icon": "energy",
+        "image": "river",
+        "name": "Волшебная река",
+        "description": "Воды волшебной реки освежают",
+        "hole_sprite": "hole_river"
+    }
+}

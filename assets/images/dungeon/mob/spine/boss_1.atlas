@@ -1,0 +1,83 @@
+
+boss_1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: false
+  xy: 459, 2
+  size: 108, 119
+  orig: 108, 119
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 459, 123
+  size: 111, 119
+  orig: 111, 119
+  offset: 0, 0
+  index: -1
+beard
+  rotate: false
+  xy: 2, 37
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 325
+  size: 298, 185
+  orig: 298, 185
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 722, 303
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+head2
+  rotate: true
+  xy: 302, 306
+  size: 204, 208
+  orig: 204, 208
+  offset: 0, 0
+  index: -1
+head3
+  rotate: false
+  xy: 250, 97
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+head4
+  rotate: true
+  xy: 512, 306
+  size: 204, 208
+  orig: 204, 208
+  offset: 0, 0
+  index: -1
+hit
+  rotate: false
+  xy: 459, 244
+  size: 258, 60
+  orig: 258, 60
+  offset: 0, 0
+  index: -1
+hit2
+  rotate: false
+  xy: 2, 105
+  size: 246, 218
+  orig: 246, 218
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 931, 356
+  size: 154, 68
+  orig: 154, 68
+  offset: 0, 0
+  index: -1

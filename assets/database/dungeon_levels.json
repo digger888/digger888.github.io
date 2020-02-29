@@ -1,0 +1,35 @@
+[
+    {
+        "id": 500,
+        "tier_id":2,
+        "meta": "tier2",
+        "surface_background":"top1_bg",
+        "host":"host1",
+        "background": "tier2_bg",
+        "bet_bg": "tier1_bet_bg",
+        "bet":0.05,
+        "rocks": ["2tier_stone1", "2tier_stone2", "2tier_stone3", "2tier_stone4"]
+    },
+    {
+        "id": 1000,
+        "tier_id":3,
+        "meta": "tier3",
+        "surface_background":"top1_bg",
+        "host":"host1",
+        "background": "tier3_bg",
+        "bet_bg": "tier2_bet_bg",
+        "bet":0.1,
+        "rocks": ["3tier_stone1", "3tier_stone2", "3tier_stone3", "3tier_stone4"]
+    },
+    {
+        "id": 100,
+        "tier_id":1,
+        "meta": "tier1",
+        "surface_background":"top1_bg",
+        "host":"host1",
+        "background": "tier1_bg",
+        "bet_bg": "tier3_bet_bg",
+        "bet":0.01,
+        "rocks": ["1tier_stone1", "1tier_stone2", "1tier_stone3", "1tier_stone4"]
+    }
+]

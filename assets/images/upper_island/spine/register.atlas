@@ -1,0 +1,41 @@
+
+register.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+register_body
+  rotate: false
+  xy: 98, 42
+  size: 97, 60
+  orig: 97, 60
+  offset: 0, 0
+  index: -1
+register_check
+  rotate: false
+  xy: 2, 38
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+register_coin
+  rotate: false
+  xy: 197, 83
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+register_handle
+  rotate: false
+  xy: 2, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+register_handle2
+  rotate: false
+  xy: 38, 17
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1

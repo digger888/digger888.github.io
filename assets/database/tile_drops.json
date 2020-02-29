@@ -1,0 +1,216 @@
+{
+    "island_0": {
+        "levels": [
+            {
+                "meta": "island 1 level 1 drops",
+                "drops": [
+                    {
+                        "type": "mob",
+                        "chance": 10
+                    },
+                    {
+                        "type": "loot",
+                        "chance": 20
+                    },
+                    {
+                        "type": "event_positive",
+                        "chance": 5
+                    },
+                    {
+                        "type": "event_negative",
+                        "chance": 2
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 2 drops",
+                "drops": [
+                    {
+                        "type": "mob",
+                        "chance": 10
+                    },
+                    {
+                        "type": "loot",
+                        "chance": 20
+                    },
+                    {
+                        "type": "event_positive",
+                        "chance": 5
+                    },
+                    {
+                        "type": "event_negative",
+                        "chance": 2
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 3 drops",
+                "drops": [
+                    {
+                        "type": "mob",
+                        "chance": 10
+                    },
+                    {
+                        "type": "loot",
+                        "chance": 20
+                    },
+                    {
+                        "type": "event_positive",
+                        "chance": 5
+                    },
+                    {
+                        "type": "event_negative",
+                        "chance": 2
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 4 drops",
+                "drops": [
+                    {
+                        "type": "mob",
+                        "chance": 10
+                    },
+                    {
+                        "type": "loot",
+                        "chance": 25
+                    },
+                    {
+                        "type": "event_positive",
+                        "chance": 5
+                    },
+                    {
+                        "type": "event_negative",
+                        "chance": 2
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 5 drops",
+                "drops": [
+                    {
+                        "type": "mob",
+                        "chance": 10
+                    },
+                    {
+                        "type": "loot",
+                        "chance": 25
+                    },
+                    {
+                        "type": "event_positive",
+                        "chance": 5
+                    },
+                    {
+                        "type": "event_negative",
+                        "chance": 2
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 6 drops",
+                "drops": [
+                    {
+                        "type": "mob",
+                        "chance": 10
+                    },
+                    {
+                        "type": "loot",
+                        "chance": 25
+                    },
+                    {
+                        "type": "event_positive",
+                        "chance": 5
+                    },
+                    {
+                        "type": "event_negative",
+                        "chance": 2
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 7 drops",
+                "drops": [
+                    {
+                        "type": "mob",
+                        "chance": 10
+                    },
+                    {
+                        "type": "loot",
+                        "chance": 30
+                    },
+                    {
+                        "type": "event_positive",
+                        "chance": 5
+                    },
+                    {
+                        "type": "event_negative",
+                        "chance": 2
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 8 drops",
+                "drops": [
+                    {
+                        "type": "mob",
+                        "chance": 10
+                    },
+                    {
+                        "type": "loot",
+                        "chance": 30
+                    },
+                    {
+                        "type": "event_positive",
+                        "chance": 5
+                    },
+                    {
+                        "type": "event_negative",
+                        "chance": 2
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 9 drops",
+                "drops": [
+                    {
+                        "type": "mob",
+                        "chance": 10
+                    },
+                    {
+                        "type": "loot",
+                        "chance": 30
+                    },
+                    {
+                        "type": "event_positive",
+                        "chance": 5
+                    },
+                    {
+                        "type": "event_negative",
+                        "chance": 2
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 10 drops",
+                "drops": [
+                    {
+                        "type": "mob",
+                        "chance": 10
+                    },
+                    {
+                        "type": "loot",
+                        "chance": 35
+                    },
+                    {
+                        "type": "event_positive",
+                        "chance": 5
+                    },
+                    {
+                        "type": "event_negative",
+                        "chance": 5
+                    }
+                ]
+            }
+        ]
+    }
+}

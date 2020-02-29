@@ -1,0 +1,76 @@
+
+house.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banner
+  rotate: false
+  xy: 748, 616
+  size: 48, 104
+  orig: 48, 104
+  offset: 0, 0
+  index: -1
+cart_empty
+  rotate: false
+  xy: 2, 2
+  size: 96, 42
+  orig: 96, 42
+  offset: 0, 0
+  index: -1
+cart_full
+  rotate: false
+  xy: 118, 167
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+cog
+  rotate: false
+  xy: 2, 46
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+gem_off
+  rotate: false
+  xy: 2, 148
+  size: 114, 92
+  orig: 114, 92
+  offset: 0, 0
+  index: -1
+gem_on
+  rotate: false
+  xy: 748, 722
+  size: 114, 92
+  orig: 114, 92
+  offset: 0, 0
+  index: -1
+house
+  rotate: false
+  xy: 2, 242
+  size: 744, 572
+  orig: 744, 572
+  offset: 0, 0
+  index: -1
+particles
+  rotate: true
+  xy: 748, 561
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 216, 235
+  size: 5, 111
+  orig: 5, 111
+  offset: 0, 0
+  index: -1
+spark
+  rotate: false
+  xy: 864, 740
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1

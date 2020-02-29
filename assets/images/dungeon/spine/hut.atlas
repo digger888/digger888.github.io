@@ -1,0 +1,62 @@
+
+hut.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d2
+  rotate: false
+  xy: 165, 99
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+demon_body
+  rotate: false
+  xy: 748, 805
+  size: 231, 145
+  orig: 231, 145
+  offset: 0, 0
+  index: -1
+demon_hand1
+  rotate: false
+  xy: 208, 184
+  size: 89, 98
+  orig: 89, 98
+  offset: 0, 0
+  index: -1
+demon_hand2
+  rotate: false
+  xy: 748, 703
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+demon_head
+  rotate: false
+  xy: 2, 2
+  size: 161, 180
+  orig: 161, 180
+  offset: 0, 0
+  index: -1
+dimond_glow
+  rotate: false
+  xy: 208, 284
+  size: 116, 92
+  orig: 116, 92
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 184
+  size: 204, 192
+  orig: 204, 192
+  offset: 0, 0
+  index: -1
+hut
+  rotate: false
+  xy: 2, 378
+  size: 744, 572
+  orig: 744, 572
+  offset: 0, 0
+  index: -1

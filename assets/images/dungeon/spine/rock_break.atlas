@@ -1,0 +1,41 @@
+
+rock_break.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_dust
+  rotate: false
+  xy: 2, 7
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+bp1
+  rotate: false
+  xy: 165, 58
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+bp2
+  rotate: false
+  xy: 113, 2
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+bp3
+  rotate: false
+  xy: 175, 15
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+bp4
+  rotate: false
+  xy: 113, 45
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1

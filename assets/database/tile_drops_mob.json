@@ -1,0 +1,136 @@
+{
+    "island_0": {
+        "levels": [
+            {
+                "meta": "island 1 level 1 mob drops",
+                "drops": [
+                    {
+                        "id": "skullface",
+                        "chance": 50
+                    },
+                    {
+                        "id": "mordokryl",
+                        "chance": 50
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 2 mob drops",
+                "drops": [
+                    {
+                        "id": "skullface",
+                        "chance": 50
+                    },
+                    {
+                        "id": "mordokryl",
+                        "chance": 50
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 3 mob drops",
+                "drops": [
+                    {
+                        "id": "skullface",
+                        "chance": 50
+                    },
+                    {
+                        "id": "mordokryl",
+                        "chance": 50
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 4 mob drops",
+                "drops": [
+                    {
+                        "id": "skullface",
+                        "chance": 50
+                    },
+                    {
+                        "id": "mordokryl_2",
+                        "chance": 50
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 5 mob drops",
+                "drops": [
+                    {
+                        "id": "skullface",
+                        "chance": 50
+                    },
+                    {
+                        "id": "mordokryl_2",
+                        "chance": 50
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 6 mob drops",
+                "drops": [
+                    {
+                        "id": "skullface_2",
+                        "chance": 50
+                    },
+                    {
+                        "id": "mordokryl_2",
+                        "chance": 50
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 7 mob drops",
+                "drops": [
+                    {
+                        "id": "skullface_2",
+                        "chance": 50
+                    },
+                    {
+                        "id": "mordokryl_2",
+                        "chance": 50
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 8 mob drops",
+                "drops": [
+                    {
+                        "id": "skullface_2",
+                        "chance": 50
+                    },
+                    {
+                        "id": "mordokryl_2",
+                        "chance": 50
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 9 mob drops",
+                "drops": [
+                    {
+                        "id": "skullface_2",
+                        "chance": 50
+                    },
+                    {
+                        "id": "mordokryl_2",
+                        "chance": 50
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 10 mob drops",
+                "drops": [
+                    {
+                        "id": "skullface_2",
+                        "chance": 50
+                    },
+                    {
+                        "id": "mordokryl_2",
+                        "chance": 50
+                    }
+                ]
+            }
+        ]
+    }
+}

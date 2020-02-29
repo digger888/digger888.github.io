@@ -1,0 +1,196 @@
+{
+    "island_0": {
+        "levels": [
+            {
+                "meta": "island 1 level 1 event drops",
+                "drops": {
+                    "negative": [
+                        {
+                            "id": "caving",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ],
+                    "positive": [
+                        {
+                            "id": "river",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ]
+                }
+            },
+            {
+                "meta": "island 1 level 2 event drops",
+                "drops": {
+                    "negative": [
+                        {
+                            "id": "caving",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ],
+                    "positive": [
+                        {
+                            "id": "river",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ]
+                }
+            },
+            {
+                "meta": "island 1 level 3 event drops",
+                "drops": {
+                    "negative": [
+                        {
+                            "id": "caving",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ],
+                    "positive": [
+                        {
+                            "id": "river",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ]
+                }
+            },
+            {
+                "meta": "island 1 level 4 event drops",
+                "drops": {
+                    "negative": [
+                        {
+                            "id": "caving",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ],
+                    "positive": [
+                        {
+                            "id": "river",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ]
+                }
+            },
+            {
+                "meta": "island 1 level 5 event drops",
+                "drops": {
+                    "negative": [
+                        {
+                            "id": "caving",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ],
+                    "positive": [
+                        {
+                            "id": "river",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ]
+                }
+            },
+            {
+                "meta": "island 1 level 6 event drops",
+                "drops": {
+                    "negative": [
+                        {
+                            "id": "caving",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ],
+                    "positive": [
+                        {
+                            "id": "river",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ]
+                }
+            },
+            {
+                "meta": "island 1 level 7 event drops",
+                "drops": {
+                    "negative": [
+                        {
+                            "id": "caving",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ],
+                    "positive": [
+                        {
+                            "id": "river",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ]
+                }
+            },
+            {
+                "meta": "island 1 level 8 event drops",
+                "drops": {
+                    "negative": [
+                        {
+                            "id": "caving",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ],
+                    "positive": [
+                        {
+                            "id": "river",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ]
+                }
+            },
+            {
+                "meta": "island 1 level 9 event drops",
+                "drops": {
+                    "negative": [
+                        {
+                            "id": "caving",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ],
+                    "positive": [
+                        {
+                            "id": "river",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ]
+                }
+            },
+            {
+                "meta": "island 1 level 10 event drops",
+                "drops": {
+                    "negative": [
+                        {
+                            "id": "caving",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ],
+                    "positive": [
+                        {
+                            "id": "river",
+                            "chance": 100,
+                            "values": [5, 10, 15, 20, 25, 30]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "mordokryl": {
+        "id": "mordokryl",
+        "name": "мордокрыл",
+        "description": "Уродливому монстру уродливое название",
+        "hp": 5,
+        "time": 5,
+        "image": "Mordokryl",
+        "bg": "fire",
+        "hole": "hole_mordokryl",
+        "drops": [
+            {
+                "id": "red_wing",
+                "chance": 100,
+                "quantity_min": 1,
+                "quantity_max": 1
+            }
+        ]
+    },
+    "mordokryl_2": {
+        "id": "mordokryl_2",
+        "name": "мордокрыл",
+        "description": "Уродливому монстру уродливое название",
+        "hp": 10,
+        "time": 5,
+        "image": "Mordokryl2",
+        "bg": "fire",
+        "hole": "hole_mordokryl",
+        "drops": [
+            {
+                "id": "red_wing",
+                "chance": 100,
+                "quantity_min": 1,
+                "quantity_max": 1
+            }
+        ]
+    },
+    "skullface": {
+        "id": "skullface",
+        "name": "адов череп",
+        "description": "Доказательство того, что ад существует",
+        "hp": 8,
+        "time": 4,
+        "image": "Skullface",
+        "bg": "fire",
+        "hole": "hole_skullface",
+        "drops": [
+            {
+                "id": "skullface_horn",
+                "chance": 100,
+                "quantity_min": 1,
+                "quantity_max": 1
+            }
+        ]
+    },
+    "skullface_2": {
+        "id": "skullface_2",
+        "name": "адов череп",
+        "description": "Доказательство того, что ад существует",
+        "hp": 15,
+        "time": 4,
+        "image": "Skullface2",
+        "bg": "fire",
+        "hole": "hole_skullface",
+        "drops": [
+            {
+                "id": "skullface_horn",
+                "chance": 100,
+                "quantity_min": 1,
+                "quantity_max": 1
+            }
+        ]
+    },
+    "boss_1": {
+        "id": "boss_1",
+        "name": "каменный гигант",
+        "description": "Хранитель первого острова",
+        "hp": 100,
+        "time": 15,
+        "image": "Boss1",
+        "bg": "fire",
+        "hole": "hole_boss_1",
+        "drops": [
+            {
+                "id": "iron_heart",
+                "chance": 100,
+                "quantity_min": 1,
+                "quantity_max": 1
+            }
+        ]
+    }
+}

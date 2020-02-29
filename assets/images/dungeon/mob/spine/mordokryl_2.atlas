@@ -1,0 +1,62 @@
+
+mordokryl_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face1
+  rotate: true
+  xy: 854, 107
+  size: 76, 118
+  orig: 76, 118
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 841, 28
+  size: 77, 91
+  orig: 77, 91
+  offset: 0, 0
+  index: -1
+face3
+  rotate: true
+  xy: 612, 22
+  size: 105, 125
+  orig: 105, 125
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 200, 181
+  orig: 200, 181
+  offset: 0, 0
+  index: -1
+hit
+  rotate: false
+  xy: 612, 129
+  size: 240, 54
+  orig: 240, 54
+  offset: 0, 0
+  index: -1
+laught
+  rotate: false
+  xy: 739, 31
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+wing1
+  rotate: false
+  xy: 204, 50
+  size: 202, 133
+  orig: 202, 133
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: false
+  xy: 408, 51
+  size: 202, 132
+  orig: 202, 132
+  offset: 0, 0
+  index: -1

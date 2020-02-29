@@ -1,0 +1,14 @@
+{
+    "island_0": {
+        "name": "First Island",
+        "dungeon_levels": 10,
+        "background": "island_0_background",
+        "boss": "boss_1"
+    },
+    "island_1": {
+        "name": "Second Island",
+        "dungeon_levels": 10,
+        "background": "island_1_background",
+        "boss": "boss_1"
+    }
+}

@@ -1,0 +1,482 @@
+{
+    "island_0": {
+        "levels": [
+            {
+                "meta": "island 1 level 1 loot drops",
+                "drops": [
+                    {
+                        "id": "bronze",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "coal",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "iron",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "malachite",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "gold_coin",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 2 loot drops",
+                "drops": [
+                    {
+                        "id": "bronze",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "coal",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "iron",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "malachite",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "gold_coin",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 3 loot drops",
+                "drops": [
+                    {
+                        "id": "bronze",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "coal",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "iron",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "malachite",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "gold_coin",
+                        "chance": 20,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 4 loot drops",
+                "drops": [
+                    {
+                        "id": "bronze",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "coal",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "iron",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "malachite",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "gold_coin",
+                        "chance": 30,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_0",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_1",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_2",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 5 loot drops",
+                "drops": [
+                    {
+                        "id": "bronze",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "coal",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "iron",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "malachite",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "gold_coin",
+                        "chance": 30,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_0",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_1",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_2",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 6 loot drops",
+                "drops": [
+                    {
+                        "id": "bronze",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "coal",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "iron",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "malachite",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "gold_coin",
+                        "chance": 30,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_0",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_1",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_2",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 7 loot drops",
+                "drops": [
+                    {
+                        "id": "bronze",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "coal",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "iron",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "malachite",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "gold_coin",
+                        "chance": 30,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_3",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_4",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_5",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 8 loot drops",
+                "drops": [
+                    {
+                        "id": "bronze",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "coal",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "iron",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "malachite",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "gold_coin",
+                        "chance": 30,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_3",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_4",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_5",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 9 loot drops",
+                "drops": [
+                    {
+                        "id": "bronze",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "coal",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "iron",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "malachite",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "gold_coin",
+                        "chance": 30,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_3",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_4",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_5",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    }
+                ]
+            },
+            {
+                "meta": "island 1 level 10 loot drops",
+                "drops": [
+                    {
+                        "id": "bronze",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "coal",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "iron",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "malachite",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 2
+                    },
+                    {
+                        "id": "gold_coin",
+                        "chance": 30,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_3",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_4",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    },
+                    {
+                        "id": "gem_5",
+                        "chance": 10,
+                        "quantity_min": 1,
+                        "quantity_max": 5
+                    }
+                ]
+            }
+        ]
+    }
+}

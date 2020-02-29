@@ -1,0 +1,48 @@
+
+customer_1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 360, 74
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 431, 84
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 155, 15
+  size: 111, 119
+  orig: 111, 119
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 2, 2
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 2, 37
+  size: 151, 89
+  orig: 151, 89
+  offset: 0, 0
+  index: -1
+visor
+  rotate: false
+  xy: 276, 45
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
