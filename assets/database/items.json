@@ -56,8 +56,8 @@
     },
     "12": {
         "id": 12,
-        "image": "item_iron",
-        "value": 1
+        "image": "item_iron_heart",
+        "value": 5
     }
 
 }
