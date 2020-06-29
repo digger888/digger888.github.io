@@ -11,7 +11,7 @@
         "rocks": ["2tier_stone1", "2tier_stone2", "2tier_stone3", "2tier_stone4"]
     },
     {
-        "id": 1000,
+        "id": 10000,
         "tier_id":3,
         "meta": "tier3",
         "surface_background":"top1_bg",

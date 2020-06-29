@@ -1,0 +1,62 @@
+
+jack_pot.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 409, 819
+  size: 319, 198
+  orig: 319, 198
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 361, 580
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+glow_green
+  rotate: false
+  xy: 2, 65
+  size: 220, 210
+  orig: 220, 210
+  offset: 0, 0
+  index: -1
+glow_purple
+  rotate: false
+  xy: 2, 277
+  size: 357, 357
+  orig: 357, 357
+  offset: 0, 0
+  index: -1
+glow_stone
+  rotate: false
+  xy: 2, 2
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: false
+  xy: 409, 756
+  size: 271, 61
+  orig: 271, 61
+  offset: 0, 0
+  index: -1
+rays
+  rotate: false
+  xy: 2, 636
+  size: 405, 381
+  orig: 405, 381
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 730, 880
+  size: 162, 137
+  orig: 162, 137
+  offset: 0, 0
+  index: -1
