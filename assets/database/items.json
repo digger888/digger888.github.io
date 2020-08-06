@@ -22,7 +22,7 @@
     "5": {
         "id": 5,
         "image": "item_gem_0",
-        "value": 5
+        "value": 3
     },
     "6": {
         "id": 6,
@@ -58,6 +58,16 @@
         "id": 12,
         "image": "item_iron_heart",
         "value": 5
+    },
+    "13": {
+        "id": 13,
+        "image": "item_gem_0",
+        "value": 3
+    },
+    "14": {
+        "id": 14,
+        "image": "item_bronze",
+        "value": 2
     }
 
 }
